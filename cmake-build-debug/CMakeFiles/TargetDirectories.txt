@@ -1,0 +1,3 @@
+C:/Users/Dawid/CLionProjects/Znaki/cmake-build-debug/CMakeFiles/Znaki.dir
+C:/Users/Dawid/CLionProjects/Znaki/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dawid/CLionProjects/Znaki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
